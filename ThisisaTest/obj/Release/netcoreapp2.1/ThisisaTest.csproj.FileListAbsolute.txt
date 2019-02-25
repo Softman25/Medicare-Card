@@ -1,0 +1,11 @@
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\bin\Release\netcoreapp2.1\ThisisaTest.deps.json
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\bin\Release\netcoreapp2.1\ThisisaTest.runtimeconfig.json
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\bin\Release\netcoreapp2.1\ThisisaTest.runtimeconfig.dev.json
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\bin\Release\netcoreapp2.1\ThisisaTest.dll
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\bin\Release\netcoreapp2.1\ThisisaTest.pdb
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\obj\Release\netcoreapp2.1\ThisisaTest.csproj.CoreCompileInputs.cache
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\obj\Release\netcoreapp2.1\ThisisaTest.AssemblyInfoInputs.cache
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\obj\Release\netcoreapp2.1\ThisisaTest.AssemblyInfo.cs
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\obj\Release\netcoreapp2.1\ThisisaTest.dll
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\obj\Release\netcoreapp2.1\ThisisaTest.pdb
+E:\DISCORD BOT\Project\ThisisaTest\ThisisaTest\obj\Release\netcoreapp2.1\ThisisaTest.csprojAssemblyReference.cache
